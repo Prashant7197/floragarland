@@ -366,7 +366,7 @@ class backendController extends Controller
       if($booking->userid==0){
         $html .="  <h3>Booked By:<span>Self</span></h3>";
       }else{
-        $html .="  <h3>Booked By:<span>Wedsla</span></h3>";
+        $html .="  <h3>Booked By:<span>Floralgarland</span></h3>";
       }
        $html .="  
         <h3>Customer Name:<span>$booking->name</span></h3> 
@@ -402,11 +402,13 @@ class backendController extends Controller
             'email' => $request['username'],
             'password' => $request['password'],
         ];
+        // $user = User::where('email','a@a.com')->first();
+        // $user =new User;
+        // $user->name = 'a';
+        // $user->email = 'a@a.com';
+        // $user->password = Hash::make($credentials['password']);
 
-        //       $user = User::where('email','a@a.com')->first();
-        //         $user->password = Hash::make($request['password']);
-
-        //         $user->update();
+        // $user->save();
         // return $user;
         if (Auth::attempt($credentials)) {
             return redirect()->route('admindashboard');
@@ -414,6 +416,7 @@ class backendController extends Controller
             return back()->with('msg', "Username or Password are wrong");
         }
     }
+
     public function admin_Logout()
     {
 

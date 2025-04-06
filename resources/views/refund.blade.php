@@ -26,7 +26,7 @@
 
                         Effective Date:  05-06-2023<br/>
 
-Thank you for choosing wedsla.com as your wedding planner. We strive to provide excellent services and ensure your satisfaction. This Return, Cancellation, and Refund Policy outlines the terms and conditions related to returns, cancellations, and refunds for our services. Please read this policy carefully before proceeding with any purchase.<br/>
+Thank you for choosing floralgarland.com as your wedding planner. We strive to provide excellent services and ensure your satisfaction. This Return, Cancellation, and Refund Policy outlines the terms and conditions related to returns, cancellations, and refunds for our services. Please read this policy carefully before proceeding with any purchase.<br/>
 
 Returns and Cancellations<br/>
 1.1 Services<br/>
@@ -47,7 +47,7 @@ Exceptional Circumstances<br/>
 In the event of unforeseen circumstances beyond our control, such as natural disasters, extreme weather conditions, or other force majeure events that may affect our ability to provide services or fulfill orders, we reserve the right to cancel or reschedule services and shipments. In such cases, we will make every effort to notify you in advance and provide suitable alternatives or refunds.<br/>
 
 Contact Us<br/>
-If you have any questions, concerns, or requests related to our Return, Cancellation, and Refund Policy, please contact us at email info@wedsla.com. We will be happy to assist you and address any issues you may have.<br/>
+If you have any questions, concerns, or requests related to our Return, Cancellation, and Refund Policy, please contact us at email info@floralgarland.com. We will be happy to assist you and address any issues you may have.<br/>
                     </p>
                 </div>
 

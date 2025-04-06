@@ -24,7 +24,7 @@
                    >
                     <p>
 
-                        1). The customer will pay wedsla a week before wedding.<br />
+                        1). The customer will pay Floralgarland a week before wedding.<br />
                         2). Slot booking charges are non-refundable, it will be added in your net charge if you confirm
                         booking.<br />
                         3). Ways of refund after booking cancellation(in case of accident):<br />

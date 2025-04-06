@@ -5,7 +5,7 @@
     <title>{{ env('APP_NAME') }}</title>
     <meta charset="utf-8">
 
-    <link rel="icon" type="image/x-icon" href="/images/wed_logo.png">
+    <link rel="icon" type="image/x-icon" href="/images/flora.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="/https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap"
@@ -45,8 +45,28 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
-            <a class="navbar-brand" href="/index"><img src="/images/wedsla.png" class="logo" style="-webkit-filter: drop-shadow(5px 5px 5px white);
-        filter: drop-shadow(3px 2px 2px black);"></a>
+        <a class="navbar-brand" href="/index" style="position: relative; display: inline-block;">
+            <img src="/images/flora.png" class="logo" style="
+                -webkit-filter: drop-shadow(5px 5px 5px white);
+                filter: drop-shadow(3px 2px 2px black);
+                display: block;
+            ">
+            <span style="
+                position: absolute;
+                top: 50%;
+                left: 90%;
+                transform: translateY(-50%);
+                font-family: 'Cinzel', serif;
+                font-size: 32px;
+                font-weight: bold;
+                color: gold;
+                text-shadow: 2px 2px 4px #000;
+                white-space: nowrap;
+            ">Floral Garland</span>
+            </a>
+
+            <!-- Add this to your <head> section to load the Cinzel font -->
+            <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                 aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="oi oi-menu"></span>

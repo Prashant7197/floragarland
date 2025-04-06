@@ -5,7 +5,7 @@
     <title>{{ env('APP_NAME') }}</title>
     <meta charset="utf-8">
 
-    <link rel="icon" type="image/x-icon" href="/images/wed_logo.png">
+    <link rel="icon" type="image/x-icon" href="/images/flora.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="/https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap"
@@ -67,8 +67,29 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
-            <a class="navbar-brand" href="/index"><img src="/images/wedsla.png" class="logo" style="-webkit-filter: drop-shadow(5px 5px 5px white);
-        filter: drop-shadow(3px 2px 2px black);"></a>
+        <a class="navbar-brand" href="/index" style="position: relative; display: inline-block;">
+  <img src="/images/flora.png" class="logo" style="
+    -webkit-filter: drop-shadow(5px 5px 5px white);
+    filter: drop-shadow(3px 2px 2px black);
+    display: block;
+  ">
+  <span style="
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translateY(-50%);
+    font-family: 'Cinzel', serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: gold;
+    text-shadow: 2px 2px 4px #000;
+    white-space: nowrap;
+  ">Floral Garland</span>
+</a>
+
+<!-- Add this to your <head> section to load the Cinzel font -->
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap" rel="stylesheet">
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                 aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="oi oi-menu"></span>
@@ -104,7 +125,7 @@
                 <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-end">
                     <div class="text text-center">
                         <h1 class="mb-4 cinematic-animation" style="font-family: 'Lobster', cursive;">The Best Way <br>to Find Marrige
-                            Lawn</h1>
+                            Lawn & Stage Decorator</h1>
                         <p class="cinematic">
                             Our innovative website is designed to provide you with an exceptional experience, ensuring
                             that every milestone in your life is celebrated in style.</p>
@@ -437,13 +458,13 @@
                     <div class="heading-section p-md-5">
                         <h2 class="mb-4">Beyond your expectations</h2>
 
-                        <p>‘Wedsla Pvt. Ltd.’ gives key event arranging and innovative conveyance of gatherings and
+                        <p>‘Floralgarland Pvt. Ltd.’ gives key event arranging and innovative conveyance of gatherings and
                             events for functions including Wedding, Anniversary, Birthday Party, Ring Ceremony, Business
                             Party, Seminar and many more Parties.
 
                         </p>
 
-                        <p>Wedsla provide facilities for book your lawn in simple way at Affordable price. we insure for
+                        <p>Floralgarland provide facilities for booking stage decoration in simple way at Affordable price. we insure for
                             fully Hassle free asured booking and save your time and money.</p>
                     </div>
                 </div>
@@ -640,7 +661,7 @@
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
 
-                        <h2 class="ftco-heading-2"><img src="/images/wed_logo.png" height="100px" widht="120px"></h2>
+                        <h2 class="ftco-heading-2"><img src="/images/flora.png" height="100px" widht="120px"></h2>
                         <p>Our innovative website is designed to provide you with an exceptional experience, ensuring
                             that every milestone in your life is celebrated in style. </p>
                         <ul class="ftco-footer-social list-unstyled mt-5">
@@ -686,7 +707,7 @@
                                             class="icon icon-phone"></span><span class="text">+91
                                             6392420306</span></a></li>
                                 <li><a href="#"><span class="icon icon-envelope pr-4"></span><span
-                                            class="text">info@wedsla.com</span></a></li>
+                                            class="text">info@floralgarland.com</span></a></li>
                             </ul>
                         </div>
                     </div>

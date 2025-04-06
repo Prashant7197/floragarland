@@ -25,7 +25,7 @@
                     <p>
                         Effective Date: 05-06-2023<br/>
 
-                        Thank you for visiting Wedsla Private Limited ("the Website"). This Privacy Policy outlines how we
+                        Thank you for visiting Floralgarland Private Limited ("the Website"). This Privacy Policy outlines how we
                         collect, use, store, and protect your personal information when you use our website or interact with
                         our services. We are committed to respecting your privacy and ensuring that your personal
                         information is protected.<br/>
@@ -91,7 +91,7 @@
 
                         Contact Us<br/>
                         If you have any questions, concerns, or requests regarding this Privacy Policy or our handling of
-                        your personal information, please contact us at email:- info@wedsla.com .<br/>
+                        your personal information, please contact us at email:- info@floralgarland.com .<br/>
 
                         By using our website and providing your personal information, you consent to the collection, use,
                         and disclosure of your information as described in this Privacy<br/>

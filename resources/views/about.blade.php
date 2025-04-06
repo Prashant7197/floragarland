@@ -31,11 +31,11 @@
                     <div class="heading-section p-md-5">
                         <h2 class="mb-4">Beyond your expectations</h2>
 
-                        <p>‘Wedsla Pvt. Ltd.’ gives key event arranging and innovative conveyance of gatherings and
+                        <p>‘Floralgarland Pvt. Ltd.’ gives key event arranging and innovative conveyance of gatherings and
                             events for functions including Wedding, Anniversary, Birthday Party, Ring Ceremony, Business
                             Party, Seminar and many more Parties<b>.</b></p>
 
-                        <p>Wedsla provide facilities for book your lawn in simple way at Affordable price. we insure for
+                        <p>Floralgarland provide facilities for booking stage decoration in simple way at Affordable price. we insure for
                             fully Hassle free asured booking and save your time and money<b>.</b> </p>
                     </div>
                 </div>

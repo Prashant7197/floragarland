@@ -286,7 +286,7 @@
                   }
                   </style>
                 <div class="modal-body">
-                    <h3>Booked By:<span>Wedsla</span></h3> 
+                    <h3>Booked By:<span>Floralgarland</span></h3> 
                     <h3>Customer Name:<span>Saurabh Singh</span></h3> 
                     <h3>Contact Number:<span> 91 6568787654</span></h3>
                     <h3>Event Type: <span> Marriage</span></h3>

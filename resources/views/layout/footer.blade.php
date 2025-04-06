@@ -4,7 +4,7 @@
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
                     
-                <h2 class="ftco-heading-2"><img src="/images/wed_logo.png" height="100px" widht="120px"></h2>
+                <h2 class="ftco-heading-2"><img src="/images/flora.png" height="100px" widht="120px"></h2>
                     <p>Our innovative website is designed to provide you with an exceptional experience, ensuring
                         that every milestone in your life is celebrated in style. </p>
                     <ul class="ftco-footer-social list-unstyled mt-5">
@@ -47,7 +47,7 @@
                                         class="icon icon-phone"></span><span class="text">+91
                                         6392420306</span></a></li>
                             <li><a href="#"><span class="icon icon-envelope pr-4"></span><span
-                                        class="text">info@wedsla.com</span></a></li>
+                                        class="text">info@floralgarland.com</span></a></li>
                         </ul>
                     </div>
                 </div>

@@ -45,7 +45,7 @@
                                         <div class="icon">
                                             <span class="icon-envelope-o"></span>
                                         </div>
-                                        <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@wedsla.com</a></p>
+                                        <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@floralgarland.com</a></p>
                                     </div>
                                 </div>
                             </div>
